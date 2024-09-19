@@ -22,12 +22,13 @@ data source. Next to regular time series data, there are a bunch of technical
 indicators that can be tracked with this library.
 
 > :bulb: This library is very new, so you might experience issues. If you do,
-please report them at the [issues](https://github.com/wagenaartje/stocks.js/issues)
+please report them at the [issues](https://github.com/sniper19p/stocks.js/issues)
 section.
 
 This is an example of regular stock time series retrieval
 ([click to run](https://jsfiddle.net/wagenaartje/2pph8rax/4/)):
 
+NOTE: This is a fork of another project that was left abandoned I have fixed it to the best I can
 
 ```js
 // Let's get the stock data of Tesla Inc. for the last 10 minutes
@@ -218,9 +219,9 @@ Information Technology, Industrials, Energy
 ```
 
 ## Contributing
-If you want to contribute to this project, please read the [contributing guide](https://github.com/wagenaartje/stocks.js/blob/master/CONTRIBUTING.md)
+If you want to contribute to this project, please read the [contributing guide](https://github.com/sniper19p/stocks.js/blob/master/CONTRIBUTING.md)
 over here. You can also participate in the discussions at the [issues
-section](https://github.com/wagenaartje/stocks.js/issues), every opinion we can
+section](https://github.com/sniper19p/stocks.js/issues), every opinion we can
 get is useful.
 
 ## Further notices
@@ -229,8 +230,3 @@ they exist for some time now, it is quite unclear what their business model is.
 They also do not provide a lot of information on their sources and why an API
 Key is needed. So please note the risk that from one day to the other their
 service might stop.
-
-<hr>
-
-You made it all the way down! If you appreciate this repo and want to support the development of it, please consider donating :thumbsup:
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CXS3G8NHBYEZE)

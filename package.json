@@ -1,8 +1,8 @@
 {
-  "name": "stocks.js",
-  "version": "0.0.19",
+  "name": "@broken_bones/stocks.js",
+  "version": "0.0.1",
   "description": "stocks.js offers an easy to use stock market data API",
-  "homepage": "https://github.com/wagenaartje/stocks.js",
+  "homepage": "https://github.com/sniper19p/stocks.js",
   "main": "./dist/stocks",
   "scripts": {
     "build": "webpack",
@@ -22,22 +22,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wagenaartje/stocks.js.git"
+    "url": "git+https://github.com/sniper19p/stocks.js.git"
   },
   "keywords": [
     "stocks",
     "market",
     "api"
   ],
-  "author": {
-    "name": "Thomas Wagenaar",
-    "email": "wagenaartje@protonmail.com",
-    "url": "https://wagenaartje.github.io/"
-  },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wagenaartje/stocks.js/issues",
-    "email": "wagenaartje@protonmail.com"
+    "url": "https://github.com/sniper19p/stocks.js/issues"
   },
   "engines": {
     "node": ">=7.6"

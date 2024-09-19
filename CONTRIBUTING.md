@@ -23,7 +23,7 @@ your code is:
 ### Future plans
 Stocks.js is fairly new. If you have any ideas on how to improve it, feel free
 to share them on the
-[issues page](https://github.com/wagenaartje/stocks.js/issues). This way
+[issues page](https://github.com/sniper19p/stocks.js/issues). This way
 multiple developers can share their opinion on your proposals. A list of
 proposed plans:
 
